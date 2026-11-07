@@ -26,8 +26,3 @@ pocketa/
 ├── script.js    # LocalStorage handling, state management, search, and calculations
 └── README.md    # Documentation
 ```
-
-## Getting Started
-
-Simply open `index.html` in any modern web browser or host it on any static web hosting service (GitHub Pages, Vercel, Netlify, etc.).
-
